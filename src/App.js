@@ -1,6 +1,4 @@
-import logo from './logo.svg';
 import './App.css';
-import {robots} from './Assets/robots';
 import SearchBox from './Components/SearchBox';
 import Cardlist from './Components/Cardlist';
 import Scroll from './Components/Scroll';
